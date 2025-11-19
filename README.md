@@ -1191,5 +1191,4 @@ Features demonstrated:
 **🐛 Found a bug? [Report it here](https://github.com/yourusername/SMaliTM/issues)**
 
 **💡 Have a feature request? [Let us know](https://github.com/yourusername/SMaliTM/discussions)**
-#   S M a l i T M  
- 
+#
