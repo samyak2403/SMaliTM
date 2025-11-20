@@ -80,7 +80,7 @@ Add SMailTM to your app's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-      implementation 'com.github.samyak2403:SMailTM:1.0.0'
+      implementation 'com.github.samyak2403:SMailTM:SMailTM-v1.0.1'
 
 }
 ```
@@ -1099,6 +1099,7 @@ For issues, questions, or contributions, please visit:
 
 **💡 Have a feature request? [Let us know](https://github.com/samyak2403/SMailTM/discussions)**
 #
+
 
 
 
